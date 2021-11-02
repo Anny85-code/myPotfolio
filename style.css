@@ -4,8 +4,6 @@ html {
     text-align: center;
 }
 
-
-
 body {
     height: auto;
 }
@@ -20,13 +18,11 @@ h1 {
     color: wheat;
 }
 
-
 .img {
     max-width: 200%;
     height: 200px;
     
 }
-
 .zuri {
     
     max-width: 75%;
@@ -38,8 +34,7 @@ main {
     margin-bottom: 10px;
     
     color: tomato;
-    
-}
+    }
 
 
 li {
@@ -52,10 +47,6 @@ ul {
     list-style-type: disc;
 }
 
-
-
-
-
 @media only screen and ( min-width: 1200px) {
 
 
@@ -64,15 +55,13 @@ ul {
         background: rgb(73, 77, 77);
     }
     
-    
-    body {
+     body {
         height: auto;
     }
     
     h1 {
         color: rgb(233, 218, 233);
-        
-    }
+     }
     #main-name{
         text-align: center;
     }
@@ -80,8 +69,7 @@ ul {
     .img {
         max-width: 200%;
         height: 200px;
-        /* margin-left: 15%;
-        margin-right: 20%; */
+        
     }
     
     .zuri {
