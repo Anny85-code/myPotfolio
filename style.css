@@ -4,11 +4,7 @@ html {
     text-align: center;
 }
 
-/* * {
-    box-sizing: border-box;
-    width: auto;
-    padding: 0;
-} */
+
 
 body {
     height: auto;
@@ -28,8 +24,7 @@ h1 {
 .img {
     max-width: 200%;
     height: 200px;
-    /* margin-left: 15%;
-    margin-right: 20%; */
+    
 }
 
 .zuri {
@@ -69,11 +64,6 @@ ul {
         background: rgb(73, 77, 77);
     }
     
-    /* * {
-        box-sizing: border-box;
-        width: auto;
-        padding: 0;
-    } */
     
     body {
         height: auto;
